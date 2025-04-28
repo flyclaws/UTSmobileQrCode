@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AjiQrScanner</string>
+    <string name="Nama">Nama</string>
+    <string name="Class">Kelas</string>
+    <string name="Nim">NIM</string>
+    <string name="Scan_Button">Scan QR Code</string>
+    <string name="Content">XYZ</string>
+
+</resources>
